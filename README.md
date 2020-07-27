@@ -1,7 +1,5 @@
 ### Hi there 👋
-- name: Profile Readme Stats
-  uses: teoxoy/profile-readme-stats@v0.1
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=geek0ne)](https://github.com/geek0ne/github-readme-stats)
 <!--
 **Geek0ne/Geek0ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
